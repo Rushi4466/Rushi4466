@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Rushikesh!
+# 👋 Hi there, I'm Rushikesh!
 
-🚀 **Cloud & DevOps Engineer**
-💡 Passionate about automation, cloud infrastructure, and CI/CD pipelines
+🚀 Cloud & DevOps Engineer
+⚡ Building scalable systems & automating workflows
 
 ---
 
